@@ -4,6 +4,6 @@
 # 導入
 ``` bash
 $ git clone https://github.com/fuurin/phaser-test
-$ yarn install
-$ yarn start
+$ yarn
+$ yarn s
 ```
